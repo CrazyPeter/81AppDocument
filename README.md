@@ -2,6 +2,7 @@
 
 ## Instructions
 APP itself is a software related to the address book, which contains onscripter engine.
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/67/12/2d/67122d38-0626-7996-06f4-84104c074e1e/pr_source.png/0x0ss-P3.jpg)
 If the app is open and there is no game media in the app's document, this effect may be displayed.
 
 At this time, it will be networked for verification once, if the network is normal, it will enter the onscripter interface.
